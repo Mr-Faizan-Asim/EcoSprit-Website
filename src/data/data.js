@@ -121,7 +121,7 @@ const toprateslaes = {
     },
     {
       id: "0M0x4",
-      title: "Object Oriebted Projects",
+      title: "Object Oriented Projects",
       text: "All Languages",
       rating: "5+",
       btn: "Buy Now",
@@ -181,7 +181,7 @@ const toprateslaes = {
       rating: "5+",
       btn: "Buy Now",
       img: product10,
-      price: "000",
+      price: "5000",
       color: "from-indigo-700 to-indigo-700",
       shadow: "shadow-lg shadow-indigo-500",
     },
