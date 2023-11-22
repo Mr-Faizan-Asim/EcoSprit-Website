@@ -13,7 +13,7 @@ const CartEmpty = ({onCartToggle}) => {
         shadow-lg shadow-orange-500 flex items-center justify-center text-slate-900 py-2 gap3
         text-sm px-5 font-semibold active:scale-110' onClick={onCartToggle}>
           <ArrowLeftIcon className='h-5 w-5 text-slate-900' />
-          <span className=''>Back To Nike Store</span>
+          <span className=''>Back To Ecosprit Store</span>
         </button>
       </div>
     </>

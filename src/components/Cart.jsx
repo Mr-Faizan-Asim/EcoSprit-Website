@@ -50,9 +50,7 @@ const Cart = () => {
                   ${totalAmount}</h1>
               </div>
               <div className='grid items-center gap-2'>
-                <p className='text-sm font-medium text-center'>
-                  Taxes and Shipping Will Calculate At Shipping</p>
-                <button type='button' className='button-theme bg-theme-cart text-white'>
+                <button type='button' className='button-theme bg-theme-cart text-white' onClick={() => window.location.href = 'https://forms.gle/PZGifZsWmWfBj32Z7'}>
                   Check Out</button>
               </div>
             </div>
