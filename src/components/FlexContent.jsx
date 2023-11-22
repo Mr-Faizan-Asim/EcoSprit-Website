@@ -12,12 +12,6 @@ const FlexContent = ({ifExists, endpoint: {title, heading, text, img, btn, url}}
           <h1 className='text-5xl lg:text-4xl md:-text3xl sm:text-2xl font-bold text-slate-900 
           filter drop-shadow-lg'>{title}</h1>
           <p className='xl:text-sm my-4 text-slate-900'>{text}</p>
-          <a href={url} className='flex items-center' target={'_blank'} role='button'>
-            <button type='button' className='button-theme bg-slate-900 
-            text-slate-100 shadow-slate-900 py-1.5'>
-              {btn}
-            </button>
-          </a>
         </div>
         <div className='flex items-center justify-center max-w-xl relative lg:max-w-none w-full'>
           <img src={img} alt={`img/heading`}
