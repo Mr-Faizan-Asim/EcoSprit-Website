@@ -68,7 +68,7 @@ const popularsales = {
 const highlight = {
   heading: "HIGHLIGHTS",
   title: "Your IT Consulting Partner!",
-  text: "At Woix, we're always striving to evolve and adapt to the ever-changing world of technology. Today, we're thrilled to unveil our brand-new website, which brings you a wealth of opportunities, insights, and resources.",
+  text: " ",
   btn: "Explore More",
   url: "https://www.nike.com/launch/t/nocta-hot-step-black-gold",
   img: hightlightimg,

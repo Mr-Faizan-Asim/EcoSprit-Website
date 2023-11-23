@@ -29,7 +29,7 @@ const CartItem = ({ item: { id, title, text, img, color, shadow, price, cartQuan
           <div className={`bg-gradient-to-b ${color} ${shadow} relative rounded p-3 hover:scale-105
           transition-all duration-75 ease-in-out grid items-center`}>
             <img src={img} alt={`img/cart-item/${id}`} className='w-36 h-auto object-fill lg:w-28' />
-            <div className='absolute right-1 top-1 blur-theme-effect bg-white/80 text-black text-xs px-1 rounded '>${price}</div>
+            <div className='absolute right-1 top-1 blur-theme-effect bg-white/80 text-black text-xs px-1 rounded '>RS:{price}</div>
           </div>
 
           <div className='grid items-center gap-4'>
@@ -62,7 +62,7 @@ const CartItem = ({ item: { id, title, text, img, color, shadow, price, cartQuan
 
         <div className='grid items-center gap-5'>
           <div className='grid items-center justify-center'>
-          <h1 className="text-lg lg:text-base text-slate-900 font-medium">${price * cartQuantity}</h1>
+          <h1 className="text-lg lg:text-base text-slate-900 font-medium">RS:{price * cartQuantity}</h1>
           </div>
 
           <div className='grid items-center justify-center'>

@@ -32,7 +32,7 @@ const Footer = ({footerAPI: {titles, links}}) => {
             <p className="text-sm md:text-center">Copyright
               All Reserved Rights 2023 <br />
               <span className='font-semibold'>
-                Woix</span></p>
+              </span></p>
           </div>
           
 
