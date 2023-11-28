@@ -190,7 +190,7 @@ const toprateslaes = {
 
 
 const story = {
-  title: "Comming Soon",
+  title: "Coming Soon",
   news: [
     
   ],
