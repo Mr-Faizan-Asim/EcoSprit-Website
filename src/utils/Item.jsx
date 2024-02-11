@@ -32,7 +32,7 @@ const Item = ({ ifExists, id, color, shadow, title, text, img, btn, rating, pric
           {/* price & rating */}
           <div className='flex items-center justify-between w-28 my-2'>
             <div className='flex items-center bg-white/80 px-1 rounded blur-effect-theme'>
-              <h1  className='text-black text-sm font-medium'>RS:{price}</h1>
+          
             </div>
 
             <div className='flex items-center gap-1'>
