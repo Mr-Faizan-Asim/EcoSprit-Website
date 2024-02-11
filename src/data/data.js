@@ -88,7 +88,7 @@ const toprateslaes = {
   items: [
     {
       id: "0M0x1",
-      title: "Console Based Game",
+      title: "programming Assistant",
       text: "All Languages",
       rating: "5+",
       btn: "Buy Now",
@@ -143,7 +143,7 @@ const toprateslaes = {
     },
     {
       id: "0M0x6",
-      title: "Portfolio",
+      title: "Online Portfolio",
       text: "",
       rating: "5+",
       btn: "Buy Now",
@@ -154,11 +154,11 @@ const toprateslaes = {
     },
     {
       id: "0M0x7",
-      title: "Ardunio Projects",
+      title: "Graphic Designer",
       text: "",
       rating: "5+",
       btn: "Buy Now",
-      img: product1,
+      img: "https://clipart-library.com/image_gallery2/Graphic-Design.png",
       price: "3000",
       color: "from-yellow-500 to-yellow-500",
       shadow: "shadow-lg shadow-yellow-500",
