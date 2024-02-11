@@ -30,7 +30,7 @@ const Footer = ({footerAPI: {titles, links}}) => {
 
           <div className="mt-5 text-center">
             <p className="text-sm md:text-center">Copyright
-              All Reserved Rights 2023 <br />
+              All Reserved Rights 2024 <br />
               <span className='font-semibold'>
               </span></p>
           </div>
