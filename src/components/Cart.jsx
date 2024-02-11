@@ -46,8 +46,7 @@ const Cart = () => {
             <div className='fixed bottom-0 bg-white w-full px-5 py-2 grid items-center'>
               <div className='flex items-center justify-between'>
                 <h1 className='text-base font-semibold uppercase'>subtitle</h1>
-                <h1 className='text-sm rounded bg-theme-cart text-slate-100 px-1 py-0.5'>
-                  ${totalAmount}</h1>
+                
               </div>
               <div className='grid items-center gap-2'>
                 <button type='button' className='button-theme bg-theme-cart text-white' onClick={() => window.location.href = 'https://forms.gle/PZGifZsWmWfBj32Z7'}>
